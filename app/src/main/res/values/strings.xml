@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">midterm2Sabina</string>
+    <string name="rules_of_play">Rules of Play</string>
+    <string name="welcome_to_peapods_we_are_happy_to_have_you_here_please_follow_our_4_rules_at_all_times">Welcome to Peapods! We are happy to have you here, please follow our 4 rules at all times.</string>
+    <string name="rules">Rules</string>
+    <string name="_1_be_nice">1.Be nice.</string>
+    <string name="seriously_this_is_super_important">Seriously, this is super important.</string>
+    <string name="_2_be_yourself">2.Be yourself.</string>
+    <string name="we_are">We are an open and welcoming community.</string>
+    <string name="_3_create_pods">3. Create pods.</string>
+    <string name="pods_are_simply_groups">Pods are simply groups of peas (users), and are the reason we\'re all here!</string>
+    <string name="_4_don_t_flake_on_your_pod">4. Don\'t flake on your pod!</string>
+    <string name="if_you_leave_within_12_hours">If you leave within 12 hours of the event starting you will lose reputation.</string>
+    <string name="reputation_point_system">Reputation Point System</string>
+    <string name="_300_for_following_at_least_5_users">+300 for following at least 5 users</string>
+    <string name="_300">+300</string>
+    <string name="for_gaining_at_least_5_followers">for gaining at least 5 followers</string>
+    <string name="for_completing_your_profile_image_bio_location_gender_age">for completing your profile (image, bio, location, gender, age)</string>
+    <string name="_200">+200</string>
+    <string name="_100">+100</string>
+    <string name="_100_for_linking_an_account_meetup_facebook_etc">+100 for linking an account (meetup, facebook, etc)</string>
+    <string name="for_linking_an_account_meetup_facebook_etc">for linking an account (meetup, facebook, etc)</string>
+    <string name="_500">+500</string>
+    <string name="for_attending_a_pod">for attending a pod</string>
+    <string name="_1000">-1000</string>
+    <string name="please_see_our">Please see our</string>
+    <string name="faq">FAQ</string>
+    <string name="back">back</string>
+    <string name="green_rules">green_rules</string>
+    <string name="for_flaking_on_your_pod">for flaking on your pod!</string>
+</resources>
