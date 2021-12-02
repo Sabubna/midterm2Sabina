@@ -28,4 +28,10 @@
     <string name="back">back</string>
     <string name="green_rules">green_rules</string>
     <string name="for_flaking_on_your_pod">for flaking on your pod!</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="message">Message</string>
+    <string name="noti">Noti</string>
+    <string name="profile">Profile</string>
+    <string name="we_are_happy_to_have_you_in_our_community_and_hope_you_have_fun_and_meet_amazing_people">We are happy to have you in our community and hope you have fun and meet amazing people!</string>
 </resources>
